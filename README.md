@@ -1,5 +1,9 @@
 # Chess — play against Stockfish
 
+<p align="center">
+  <img src="assets/chess.png" alt="Chess Royale — medieval & fantasy themed chess UI" width="820" />
+</p>
+
 A production-style, single-page chess app where a human plays the computer. The opponent is a real
 chess engine (**Stockfish**, compiled to WebAssembly, running in a dedicated Web Worker and driven
 over the **UCI** protocol). Difficulty is honest: every level limits the engine via Stockfish's
