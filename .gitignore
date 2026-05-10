@@ -1,0 +1,16 @@
+node_modules
+dist
+dist-ssr
+*.local
+.vite
+coverage
+
+# Editor
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+
+# Engine binaries are copied from node_modules at install/build time (see scripts/copy-engine.mjs).
+# They are large; do not commit them.
+public/engine/
