@@ -11,8 +11,8 @@ export default function App() {
   return (
     <div className="app">
       <header className="app__header">
-        <h1 className="app__title">Chess</h1>
-        <p className="app__subtitle">Play against Stockfish — pick a difficulty and the engine plays at that Elo.</p>
+        <h1 className="app__title">Chess Royale</h1>
+        <p className="app__subtitle">Take the board against Stockfish — choose a difficulty and the engine plays at that Elo</p>
       </header>
 
       <main className="app__main">
